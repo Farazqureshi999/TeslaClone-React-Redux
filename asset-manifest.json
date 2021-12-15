@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/my-app/static/css/main.ad298a7d.chunk.css",
-    "main.js": "/my-app/static/js/main.d3b3ce1d.chunk.js",
-    "main.js.map": "/my-app/static/js/main.d3b3ce1d.chunk.js.map",
-    "runtime-main.js": "/my-app/static/js/runtime-main.cb7eec75.js",
-    "runtime-main.js.map": "/my-app/static/js/runtime-main.cb7eec75.js.map",
-    "static/js/2.ff3117b3.chunk.js": "/my-app/static/js/2.ff3117b3.chunk.js",
-    "static/js/2.ff3117b3.chunk.js.map": "/my-app/static/js/2.ff3117b3.chunk.js.map",
-    "index.html": "/my-app/index.html",
-    "static/css/main.ad298a7d.chunk.css.map": "/my-app/static/css/main.ad298a7d.chunk.css.map",
-    "static/js/2.ff3117b3.chunk.js.LICENSE.txt": "/my-app/static/js/2.ff3117b3.chunk.js.LICENSE.txt"
+    "main.css": "/TeslaClone-React-Redux/static/css/main.ad298a7d.chunk.css",
+    "main.js": "/TeslaClone-React-Redux/static/js/main.eb25ef9b.chunk.js",
+    "main.js.map": "/TeslaClone-React-Redux/static/js/main.eb25ef9b.chunk.js.map",
+    "runtime-main.js": "/TeslaClone-React-Redux/static/js/runtime-main.3e44dd5e.js",
+    "runtime-main.js.map": "/TeslaClone-React-Redux/static/js/runtime-main.3e44dd5e.js.map",
+    "static/js/2.667c8fbc.chunk.js": "/TeslaClone-React-Redux/static/js/2.667c8fbc.chunk.js",
+    "static/js/2.667c8fbc.chunk.js.map": "/TeslaClone-React-Redux/static/js/2.667c8fbc.chunk.js.map",
+    "index.html": "/TeslaClone-React-Redux/index.html",
+    "static/css/main.ad298a7d.chunk.css.map": "/TeslaClone-React-Redux/static/css/main.ad298a7d.chunk.css.map",
+    "static/js/2.667c8fbc.chunk.js.LICENSE.txt": "/TeslaClone-React-Redux/static/js/2.667c8fbc.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.cb7eec75.js",
-    "static/js/2.ff3117b3.chunk.js",
+    "static/js/runtime-main.3e44dd5e.js",
+    "static/js/2.667c8fbc.chunk.js",
     "static/css/main.ad298a7d.chunk.css",
-    "static/js/main.d3b3ce1d.chunk.js"
+    "static/js/main.eb25ef9b.chunk.js"
   ]
 }
